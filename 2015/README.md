@@ -1,1 +1,1 @@
-<img src="images/test.svg" width="100%" height="100%"/>
+<img src="images/test.svg" width="100%" height="1000px"/>
